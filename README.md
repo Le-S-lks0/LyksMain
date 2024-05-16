@@ -1,8 +1,8 @@
 # Lyks Sound
 
-Description courte du projet ici.
+Cela vous permet de jouer de la musique dans des serveurs rôleplay,(Veuillez nous le faire savoir via le serveur Discord si cela ne fonctionne pas dans un jeu RP FR.
 
-## Table des matières
+## Informations
 
 [Discord](https://discord.gg/lyks)
 
