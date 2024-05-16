@@ -4,7 +4,7 @@ Description courte du projet ici.
 
 ## Table des matières
 
-[Discord](#discord.gg/lyks)
+[Discord](discord.gg/lyks)
 
 ## Utilisation
 
