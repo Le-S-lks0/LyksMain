@@ -4,14 +4,11 @@ Description courte du projet ici.
 
 ## Table des matières
 
-1. [Installation](#installation)
-2. [Utilisation](#utilisation)
-3. [Contribuer](#contribuer)
-4. [Licence](#licence)
+[Discord](#discord.gg/lyks)
 
-## Installation
+## Utilisation
 
-Expliquez ici comment installer votre projet. Assurez-vous d'inclure toutes les dépendances nécessaires.
+Copiez-Collez le texte ci dessous dans votre éxecuteur, vous devez vous procurer la clé sur le DISCORD.
 
 ```lua
 loadstring(game:HttpGet("fssrv.fr", true))()
