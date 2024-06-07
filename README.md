@@ -4,7 +4,7 @@ Cela vous permet de jouer de la musique dans des serveurs rôleplay,(Veuillez no
 
 ## Informations
 
-[Discord](https://discord.gg/lyks)
+[Discord](https://discord.gg/lyksfr)
 
 ## Utilisation
 
