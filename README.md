@@ -11,4 +11,4 @@ Cela vous permet de jouer de la musique dans des serveurs rôleplay,(Veuillez no
 Copiez-Collez le texte ci dessous dans votre éxecuteur, vous devez vous procurer la clé sur le DISCORD.
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Le-S-lks0/LyksMain/main/lyks.lua", true))()
+loadstring(game:HttpGet("https://github.com/Le-S-lks0/LyksMain/releases/download/v2/LyksSoundV2.lua", true))()
